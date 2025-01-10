@@ -16,6 +16,8 @@ This file contains information about the data payloads required to complete the 
 
 Execution of tests
 
-TO successfully run these tests you need to open the folder in command prompt and execute the following command
+To successfully run these tests you need to open the folder in VC code and execute the following command
+
+npm  install
 
 npx Playwright test
